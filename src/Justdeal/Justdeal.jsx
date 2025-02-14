@@ -11,10 +11,10 @@ export const Justdeal=()=>{
             name:'Altayyab'
         },
         {
-            name:'altayyab'
+            name:'Altayyab'
         },
         {
-            // name:'altayyab'
+            // name:'Altayyab'
         },
     ])
 
